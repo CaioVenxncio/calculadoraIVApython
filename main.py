@@ -48,4 +48,4 @@ while True:
     elif escolha == 3:  
         break  
     else:  
-        print("\nOps! Escolha incorreta.")
+        print("\ops! Escolha incorreta.")
